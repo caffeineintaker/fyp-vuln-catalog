@@ -1,0 +1,13 @@
+{
+  "snapshots": [
+    {
+      "snapshot": "2026-10-29",
+      "kev_catalog_version": "2026.10.28",
+      "kev_count": 1762,
+      "epss_score_date": "2026-10-28T12:03:13Z",
+      "epss_model_version": "v2026.06.15",
+      "epss_count": 396966
+    }
+  ],
+  "latest": "2026-10-29"
+}
